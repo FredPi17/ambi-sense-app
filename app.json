@@ -1,0 +1,12 @@
+{
+  "name": "ambi-sense",
+  "displayName": "ambi-sense",
+  "expo": {
+    "name": "ambi-sense",
+    "slug": "ambi-sense",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
